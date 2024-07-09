@@ -1,0 +1,1 @@
+ALTER TABLE task RENAME COLUMN task_description TO description;
